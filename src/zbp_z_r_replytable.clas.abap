@@ -1,0 +1,5 @@
+CLASS zbp_z_r_replytable DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zz_r_replytable.
+ENDCLASS.
+
+CLASS zbp_z_r_replytable IMPLEMENTATION.
+ENDCLASS.
